@@ -1,0 +1,5 @@
+{
+  "name": "Story Bot Generator",
+  "description": "An application that takes a short story and visualizes it into a 4-panel storyboard using a consistent 'Cyberpunk Neon City' art style, powered by AI.",
+  "requestFramePermissions": []
+}
